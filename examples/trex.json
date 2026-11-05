@@ -1,0 +1,14 @@
+{
+  "subject": "Tyrannosaurus rex",
+  "before": {
+    "body_plan": "bipedal",
+    "tail": "present",
+    "representation": "fossil skeleton"
+  },
+  "after": {
+    "body_plan": "bipedal",
+    "tail": "present",
+    "representation": "life reconstruction"
+  },
+  "status": "synthetic feature comparison; not scientific validation"
+}
