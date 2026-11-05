@@ -1,0 +1,14 @@
+{
+  "subject": "potato",
+  "before": {
+    "species": "Solanum tuberosum",
+    "form": "tuber",
+    "context": "food"
+  },
+  "after": {
+    "species": "Solanum tuberosum",
+    "form": "tuber",
+    "context": "art"
+  },
+  "status": "synthetic demonstration; no image analysis"
+}
